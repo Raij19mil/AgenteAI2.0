@@ -110,7 +110,7 @@ function App() {
               <Bot className="w-6 h-6" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold">Agente de IA Adaptável</h1>
+              <h1 className="text-2xl font-bold">Seven AI</h1>
               <p className="text-sm text-muted-foreground">Seu assistente inteligente personalizado</p>
             </div>
           </div>
